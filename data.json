@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "nama": "Sultan Baharuddin Ulil Amrie",
+        "nim": "42517016",
+        "email": "sultanbaharuddin25@gmail.com",
+        "mobile": "08229000000",
+        "kelas": "3B",
+        "prodi": "Teknik Komputer dan Jaringan",
+        "wali": "Pak Yasir"
+    },
+    {
+        "id": "2",
+        "nama": "A. Cici Nurmadinah",
+        "nim": "42517022",
+        "email": "cicinurmadinah@gmail.com",
+        "mobile": "081234532111",
+        "kelas": "3B",
+        "prodi": "D4 Teknik Komputer dan Jaringan",
+        "wali": "Yasir Utomo"
+    },
+    {
+        "id": "3",
+        "nama": "Putri Wulandari",
+        "nim": "32117070",
+        "email": "putri@gmail.com",
+        "mobile": "0822309234678",
+        "kelas": "3B",
+        "prodi": "Teknik Listrik",
+        "wali": "Syaiful"
+    }
+]
